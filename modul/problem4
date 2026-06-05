@@ -1,0 +1,6 @@
+import os
+#select the directory whose content you want to list
+path = "/"
+
+for item in os.listdir(path):
+    print(item)

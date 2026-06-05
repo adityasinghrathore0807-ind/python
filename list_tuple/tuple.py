@@ -1,0 +1,5 @@
+a = (1,2,6,8,3)
+print(type(a))
+n = list(a)
+n = a.index(6) 
+print(n)
