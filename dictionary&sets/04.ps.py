@@ -1,0 +1,5 @@
+s = set()
+s.add(77)
+s.add(77.0)
+s.add("77")
+print(len(s))
